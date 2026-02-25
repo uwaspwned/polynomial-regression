@@ -1,4 +1,4 @@
-# Polynomial Regression Demo
+# Polynomial Regression
 
 **I'm currently learning machine learning, and this is my first little project on polynomial regression.** 
 
